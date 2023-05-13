@@ -189,5 +189,5 @@ Key Insights and Conclusion
 
 -   **Fair:** Provided only key insights as conclusion.
 
--   **Author:**
-    Jonas Afutu
+Author
+Jonas Afutu
